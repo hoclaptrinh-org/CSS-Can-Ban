@@ -1,0 +1,10 @@
+p {
+	text-align: center;
+}
+#first-para {
+    color: blue;
+}
+.special-para {
+    color: red;
+    font-weight: bold;
+}
