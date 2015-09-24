@@ -9,6 +9,6 @@ Cách nhúng mã lệnh CSS vào bên trong file HTML.
 Tài liệu dành cho khoá học về CSS trên <a href="http://www.hoclaptrinh.org" title="Học Lập Trình">www.hoclaptrinh.org</a>
 
 
-Chi tiết xem tại: <a href="http://www.hoclaptrinh.org/CSS-Co-Ban" title="CSS Căn Bản">CSS Căn Bản</a>
+Link khóa học: <a href="http://www.hoclaptrinh.org/CSS-Co-Ban" title="CSS Căn Bản">CSS Căn Bản</a>
 
 
